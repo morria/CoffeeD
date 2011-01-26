@@ -13,8 +13,8 @@ CXX=g++
 COBJS=hid.o coffeed.o
 CPPOBJS=
 OBJS=$(COBJS) $(CPPOBJS)
-CFLAGS+=-Wall -g -c 
-LIBS=-framework IOKit -framework CoreFoundation
+CFLAGS+=-Wall -g -c -I/usr/local/include
+LIBS=-framework IOKit -framework CoreFoundation -L/usr/local/lib -lmicrohttpd
 
 coffeed: $(OBJS)
 	g++ -Wall -g $^ $(LIBS) -o coffeed
