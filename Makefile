@@ -6,12 +6,12 @@
 # 2010-07-03
 ###########################################
 
-all: hidtest test
+all: coffeed
 
 CC=gcc
 CXX=g++
-COBJS=hid.o
-CPPOBJS=coffeed.o
+COBJS=hid.o coffeed.o
+CPPOBJS=
 OBJS=$(COBJS) $(CPPOBJS)
 CFLAGS+=-Wall -g -c 
 LIBS=-framework IOKit -framework CoreFoundation
