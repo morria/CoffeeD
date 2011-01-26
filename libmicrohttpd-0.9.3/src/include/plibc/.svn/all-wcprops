@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/include/plibc
+END
+plibc.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/include/plibc/plibc.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/include/plibc/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/include/plibc/Makefile.am
+END

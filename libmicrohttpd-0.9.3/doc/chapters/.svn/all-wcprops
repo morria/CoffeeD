@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters
+END
+hellobrowser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters/hellobrowser.inc
+END
+responseheaders.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters/responseheaders.inc
+END
+bibliography.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters/bibliography.inc
+END
+basicauthentication.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters/basicauthentication.inc
+END
+introduction.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters/introduction.inc
+END
+largerpost.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters/largerpost.inc
+END
+processingpost.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters/processingpost.inc
+END
+tlsauthentication.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters/tlsauthentication.inc
+END
+exploringrequests.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/doc/chapters/exploringrequests.inc
+END

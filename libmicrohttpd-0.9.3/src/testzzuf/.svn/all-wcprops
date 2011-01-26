@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/Makefile.in
+END
+daemontest_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/daemontest_get.c
+END
+daemontest_get_chunked.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/daemontest_get_chunked.c
+END
+daemontest_large_put.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/daemontest_large_put.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/Makefile.am
+END
+daemontest_post.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/daemontest_post.c
+END
+socat.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/socat.c
+END
+daemontest_long_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/daemontest_long_header.c
+END
+daemontest_put.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/daemontest_put.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/README
+END
+daemontest_postform.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/daemontest_postform.c
+END
+daemontest_put_chunked.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/testzzuf/daemontest_put_chunked.c
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon
+END
+response.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/response.c
+END
+reason_phrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/reason_phrase.h
+END
+postprocessor_large_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/postprocessor_large_test.c
+END
+connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/connection.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/Makefile.in
+END
+digestauth.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/digestauth.c
+END
+daemon_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/daemon_test.c
+END
+memorypool.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/memorypool.c
+END
+response.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/response.h
+END
+daemon.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/daemon.c
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/connection.h
+END
+EXPORT.sym
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/EXPORT.sym
+END
+memorypool.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/memorypool.h
+END
+internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/internal.c
+END
+connection_https.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/connection_https.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/internal.h
+END
+postprocessor_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/postprocessor_test.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/md5.c
+END
+postprocessor.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/postprocessor.c
+END
+connection_https.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/connection_https.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/Makefile.am
+END
+reason_phrase.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/reason_phrase.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/daemon/md5.h
+END

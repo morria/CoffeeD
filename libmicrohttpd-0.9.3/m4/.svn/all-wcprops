@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4
+END
+ltsugar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4/ltsugar.m4
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4/Makefile.in
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4/libtool.m4
+END
+ltversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4/ltversion.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4/Makefile.am
+END
+lt~obsolete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4/lt~obsolete.m4
+END
+ltoptions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4/ltoptions.m4
+END
+libcurl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4/libcurl.m4
+END
+libgcrypt.m4
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/m4/libgcrypt.m4
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/Makefile.in
+END
+fileserver_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/fileserver_example.c
+END
+minimal_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/minimal_example.c
+END
+fileserver_example_dirs.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/fileserver_example_dirs.c
+END
+fileserver_example_external_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/fileserver_example_external_select.c
+END
+https_fileserver_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/https_fileserver_example.c
+END
+querystring_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/querystring_example.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/Makefile.am
+END
+minimal_example_comet.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/minimal_example_comet.c
+END
+refuse_post_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/refuse_post_example.c
+END
+authorization_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/authorization_example.c
+END
+digest_auth_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/etsydev/!svn/ver/43852/analytics/trunk/sds/libmicrohttpd-0.9.3/src/examples/digest_auth_example.c
+END
