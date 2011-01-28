@@ -55,12 +55,15 @@ static int handle_request(
   printf("\n");
   */
 
-  char value[32];
-  memset(value, 0x00, 32);
   unsigned int v = buf[4] + (256 * buf[5]);
+  char value[128];
+  memset(value, 0x00, 32);
 
-  snprintf(value, 32, "%d\n", v);
-  
+  if(!strcmp(url,"/jsonp"))
+    snprintf(value, 128, "var coffeeWeight = %d;\n", v);
+  else
+    snprintf(value, 32, "%d\n", v);
+
   response = MHD_create_response_from_data(strlen(value), value,
 					   MHD_NO, MHD_YES);
   MHD_add_response_header (response, "Content-Type", "text/plain");
