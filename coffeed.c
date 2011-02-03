@@ -55,7 +55,12 @@ static int handle_request(
   printf("\n");
   */
 
-  unsigned int v = buf[4] + (256 * buf[5]);
+  int v = buf[4] + (256 * buf[5]);
+
+  // Check to see if the value is negative
+  if(0x05 == buf[1])
+    v = -v;
+
   char value[128];
   memset(value, 0x00, 32);
 
